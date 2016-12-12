@@ -117,14 +117,7 @@
            :title "in Navas's position "
            :response " Navas: Nope! No uniform here"
            :hit "OW! Ref that is a red card!"
-           :dir { :north :goal :south :suarez}
-           :contents {}}
-
-   :goal {:desc "Congrats, you have all of your uniform and have just won a championship for Barcelona!"
-           :title "on goal"
-           :hit ""
-           :response ""
-           :dir {}
+           :dir { :south :suarez}
            :contents {}}
 
    })
